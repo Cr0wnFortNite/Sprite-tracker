@@ -1,0 +1,26 @@
+{
+ "name": "Sprite Tracker \u2013 Fortnite C7S4",
+ "short_name": "Sprite Tracker",
+ "description": "Fortnite Chapter 7 Season 4 sprite checklist",
+ "lang": "en",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#0b0d19",
+ "theme_color": "#0b0d19",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
